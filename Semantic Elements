@@ -1,0 +1,33 @@
+<html>
+
+<head><b><u>
+            <h1>We Are Learing About Sinematic Element</h1>
+        </u></b></head>
+
+<body>
+    <h2>Here Are Navigation Links</h2><br><br>
+    <nav>
+        <ul>
+            <li><a
+                    href="https://www.google.com/search?q=codingal+sing+up&rlz=1C1CHBF_en-GBGB1099GB1099&oq=codingal+sing+up&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGA0YgAQyBggCEEUYQDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhge0gEINTA3NGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8">Sing
+                    Up</a></li>
+            <li><a href="https://www.codingal.com/student/dashboard/classes/11982159/">My Dashboard</a></li>
+            <li><a
+                    href="https://www.google.com/search?sca_esv=25ac67c7e3425c2e&rlz=1C1CHBF_en-GBGB1099GB1099&sxsrf=ADLYWII7aTK7HWL8YNKJi6qxz7_06w3bhQ:1729103587632&q=how+to+add+Picture+on+html&udm=7&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J0TTyieiSn4vVsjkTS5Hqtf4g42CrlErv5TdXaRk6ND4GfxllOsX8N7Zy9Ov2apL6mz1NDbx55K0rvZyeqkrrnxfy1_Oqc-Guoy-YgaLp0F1soSLTZn3IG_aWtt46V-jL3RbFXGd21CXCL3rffUWzGiqyQms&sa=X&ved=2ahUKEwitoPvoxJOJAxW5YEEAHfygNlkQtKgLegQIFBAB&biw=1366&bih=633&dpr=1#fpstate=ive&vld=cid:8267186b,vid:Qerz5CQa2A8,st:0">Random
+                    Coding Video</a></li><br><br><br>
+        </ul>
+    </nav>
+    <section>
+        <article>
+            <h3>About Us</h3>
+            <p>Our Mission
+                To inspire school kids to fall in love with coding.<br>
+                Our Vision
+                To build the largest online school to provide Computer Science education to K-12 students.</p>
+        </article>
+    </section>
+    <footer>
+        For more information go to https://www.codingal.com/about-us/
+</body>
+
+</html>
